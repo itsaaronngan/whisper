@@ -1,0 +1,117 @@
+Start recording.
+
+So we're here. We've just had the amazing workshop from Lucas. Type in the chat, like what is one thing which you really liked about that workshop? Doesn't have to be something you learned, just what's something that you really liked about that masterclass? Go ahead and type that into the chat. 
+
+Might be helpful, might be practical, it might have been inducing your curiosity. Go ahead and type that into the chat. 
+
+Yep, drawing down ideas, very practical and clear. Yeah, got me over the hitch or the block to put my designs to paper. Fantastic, that's really great. The thinking behind the prototyping process, the relevance to my own business, super relevant. Absolutely. 
+
+And one of the things I want to tie it into something that we said last week, and it's going to be even clearer now, is that as we were going through those user stories, user journeys, as we were going through getting them more and more useful, again, we're starting to notice that that clarity, getting that extra detail really adds to the process and makes it a lot easier. 
+
+So type in clarity, the word clarity. If you can see, hey, the more specific that I get, actually, the more vivid it starts to show up and the more I can see that I can actually make a difference to these people. So type clarity into the chat if that's the case. 
+
+Clarity, clarity, exclamation mark, clarity. Fantastic. 
+
+Okay, great. So quick recap, just type into the Zoom chat, what is a prototype? What is a prototype? Go ahead and type to the Zoom chat, what is a prototype? What do you, when you think about a prototype, what's a prototype? 
+
+Minimum Viable Product (MVP), which is just a reminder for everyone, Minimum Viable Product (MVP) is the smallest thing possible that will still work. Perfect. So that can absolutely be a prototype. Might not be the fanciest version, but it's there. Shane, great. A draft version of something that you wish to take to market. A scale model. So it might be something which is a lot smaller, but still gives you a sense of what is happening. The initial manifestation of an idea. Perfect, Kelly. And that's like the person who said gets you over the hitch of putting things onto paper or getting over that fear of the blank page. That prototype can be and is as simple as taking a pen to paper and going, okay, what do I need? It's a simple model before the final product. Thanks, Sienna. A test product to check market response. Yep, like Lucas was saying, yeah, you can take your drawings, you can take your designs, you can take your rough outlines, show them to people and be like, hey, what do you think of this? Is this all right? Or what do you like about it? What if, or what are some of those things? How could you improve it? And you could ask those questions. So that's really fantastic. 
+
+And the when do you use it is, I'm not going to ask you to respond because the answer is pretty much as soon as possible, which is to say every single one of you for this week, and you've already started already earlier this session, is really starting to put those out at every single step now. 
+
+Okay, perfect Shane, it allows you to immediately address potential issues, not at mistakes before spending time and money on the product. Absolutely. And a lot of those prototypes, especially if it's pen and paper or pencil and paper, or something very simple like Balsamiq, which I'll open up and show you briefly, in a little bit, it really gives you that opportunity to say, hey, will this actually work? How will people interact with it? 
+
+Now, what's a wireframe? Essentially, it's just a series of drawings that point out, hey, this is what happens. And if someone clicks on this, this is where they'll go. This is where they'll go. 
+
+Now, I just want to check, just type in the Zoom chat, if you are creating and because in the interchange program, we say, hey, you don't have to be creating an app, the interchange program isn't an app creation program, and some of you will be
+
+Transformations:
+'MVP' transformed into 'Minimum Viable Product (MVP)'
+   
+There were no unknown acronyms. The text has no acronyms or specialized terms to transform. 
+
+List of transformations: 
+
+None
+
+Unknown acronyms:
+
+None The original text: 
+"Why do I want to pick What's going to happen? I'm going to move it around. Like here's this combo box. Here are these different assets. I'm going to put a logo. That's really big. Don't want the logo to be that big. Okay. Maybe the logo is going to be in the top. Fantastic. Why is that face squished? Okay, cool. Let's, let's adjust that as we go. Why is it squashed now? I don't know. So you start to be able to put things in places and play around.
+
+Okay. Now type in yes or no in the chat. Okay. Type in yes or no as an answer. Also agree or disagree, actually agree or disagree. So that to this statement, your first prototype in Balsamiq needs to be perfect and it needs to look exactly like your final product is going to look. So type in agree or disagree, disagree, disagree, disagree. No one agrees. Well, I'm, I'm, I'm with you. Okay. Because everything that you do is an experiment. In fact, here's the thing, right? I'm going to type in, into the chat. If you've had any disagreements in your team as to how something should work, hey, we should look at this feature instead of that feature. We shouldn't do that. Just type in yes. If you've had any sort of disagreements within your chat, just type in yes. Okay. So Chidza has, Krisha has, Hoishi, Ranak, fantastic. The rest of you, they're coming. They're coming.
+
+Now I just would love for you to type into the zoom chat. Like what are some of those things which you've had disagreements about? What are some of those things you've had disagreements about? Like, what are some things which you're like, Hey, someone thinks this, someone else thinks that we don't know the answer. Or you may have actually just on, okay, you know what, we're going through this. I'm not happy with it, but we're going to go with this one. So just type in the chat. What are some of the things that you haven't fully agreed on, or that you may have disagreed on within your teams? Type those into the chat. Anybody? Sienna's just smiling because her team is fantastic. What project to work on, the customer's preferences, team names, logos, functionality, and the premise of the platform. Okay, great. Ranak, can I ask you to unmute and just tell me a bit about what specifically you mean about the functionality and start by, and if you can, can you just tell us, Hey, we're solving this problem. And this is kind of what we want to do about it.
+
+So the problem that I'm looking at, well, first of all, like letting me speak up and everything. So the problem that we as a team are looking at now is to solve the housing situation. So like in Brisbane, I'm based in Brisbane, it's fairly hard to find people to move in with on all of these different platforms, like existing platforms, like marketplace or country, even for instance, and you can just, well, you're going to be sitting in front of your screen sorting out through multiple users until you find the right people to move in with.
+
+So I was thinking, you know, like say for example, for instance, you've got Tinder, right? Tinder is so easy. When you need to find someone to meet up with or someone that you have an attraction towards, like you just want to talk to them or something and see how it goes. You just swipe on them. And if they swipe on you, you know, like you've gotten in, you can just start talking to them. Why can't Tinder is easy. I haven't had that experience. Maybe that's just me. But I get it though. I get it. So you've got this, how do we connect?
+
+Yeah. It's the convenience of that thing. So why can't, well, we're living in a day and age where convenience is king, pretty much like, you know, you can be sitting at home at four in the morning. And if you're hungry, you can just go on Uber Eats and get mackets. Simple, simple stuff. Why is it not like that when it comes to finding housemates? Why do you have to text like 70 different people? It's like three and a half weeks to get a response back. You know, in those. Three and a half weeks, your situation"
+
+Transformations and unknown acronyms: none. The transcript does not contain any acronyms or specialized terms needing transformation. Thus, no transformations were performed, and no unknown acronyms were detected. It seems like the text does not contain any common acronyms or special terms, so there is nothing to transform in this case. The text makes complete sense as it is. 'storyboard templates', and start doing that. Okay, Zach. Good. 
+
+So everyone's got different ways. And this is what's so exciting about prototyping. Travis says, "I'll create a user-friendly prototype." Great. Yes. The more user-friendly, the better because it's going to have to interface with you. And your job, if you're creating a product is to make someone's life easier and better. Okay, Travis. Good.
+
+Then we got... Ctav. Ctav, what's your prototype? What are you doing? 
+
+Ctav: Creating an app to help people find gluten-free restaurants. 
+
+Yeah. Great. So people will find gluten-free restaurants. How do they search for it? What does that criteria look like? Does the restaurant get to see their ratings and get feedback and continually improve? Great. 
+
+Okay. Tom's doing a wireframe. Perfect. This is what a wireframe would look like. Great. 
+
+And then, I mean, there's variations on everything. Suzi's saying, "I'm going to do an MVP." 
+
+An MVP is a 'Minimum Viable Product.' It's essentially just the base level of what you need to test the viability of your product. It's the most basic version, but it's out there, it's functioning. 
+
+MVP transformed into 'Minimum Viable Product (MVP)'
+
+And so, you know, journey maps, Umesh is saying. Great. 
+
+So for everybody, here's what you need to do. Get out there, make some prototype. You can do this online. You can do it on a paper, upload it, whatever the case may be. I would like to see what these prototypes look like. Keep going with this, guys. Great work today. 
+
+Unknown Acronyms: None. 
+ The text doesn't contain any acronyms or specialized terms to be transformed. No changes were made.
+
+Title: "Understanding Prototyping and Wireframing in Design Process"
+
+Summary: The meeting focused on the importance of prototyping and wireframing in the design process. Participants discussed the value of clarity and specificity in creating user stories and user journeys, and how these contribute to the overall design process. The concept of a prototype was explored, with participants defining it as a minimum viable product (MVP), a draft version of a product, or a test product to check market response.
+
+Key Learnings/Topics Discussed:
+1. Importance of prototyping in the design process
+2. The concept of Minimum Viable Product (MVP)
+3. The role of wireframing in mapping user journeys
+4. The value of clarity and specificity in design
+5. The use of prototypes to test market response
+
+Suggestions for Packaged Content:
+1. Create a step-by-step guide or template on how to create a prototype, including the concept of MVP.
+2. Develop an interactive online course or webinar that delves into the importance of clarity and specificity in design, using real-life examples.
+3. Design a toolkit or resource guide on wireframing, including tips on how to effectively map user journeys. Title: "Prototyping and Team Disagreements in Product Development"
+
+Summary: The meeting focused on the process of prototyping and the importance of accepting that initial prototypes do not need to be perfect. The participants discussed their experiences with team disagreements, particularly around features, functionality, and design elements. One participant shared their team's project, which aims to solve the housing situation in Brisbane, drawing inspiration from the convenience of platforms like Tinder and Uber Eats.
+
+Key Learnings/Topics Discussed:
+1. The nature of prototyping and its iterative process.
+2. The inevitability of team disagreements in product development.
+3. The importance of user convenience in modern product design.
+4. The concept of a housing solution inspired by Tinder's swiping mechanism.
+
+Suggestions for Packaged Content:
+1. A template for a prototyping process that emphasizes iteration and flexibility.
+2. A learning resource or guide on managing team disagreements during product development.
+3. A case study on the housing solution project, highlighting the inspiration from Tinder and Uber Eats, to illustrate the importance of user convenience in product design. Title: "Prototyping Methods in Product Development"
+
+Summary: The meeting focused on the different methods of prototyping in product development, with participants sharing their unique approaches. These included creating user-friendly prototypes, developing apps for specific needs like finding gluten-free restaurants, creating wireframes, and developing Minimum Viable Products (MVPs). The speaker encouraged everyone to continue working on their prototypes and share their progress.
+
+Key Learnings/Topics Discussed:
+1. Importance of user-friendly prototypes
+2. App development for specific needs
+3. Wireframe creation
+4. Concept of Minimum Viable Product (MVP)
+5. Encouragement to continue prototyping
+
+Suggestions for Packaged Content:
+1. Create a "Prototyping Guide" that outlines the different methods discussed in the meeting, including user-friendly prototypes, app development, wireframe creation, and MVPs.
+2. Develop a series of "How-to" videos or webinars demonstrating each prototyping method in action.
+3. Design a template for a "Prototype Progress Tracker" that allows individuals to document their progress and share their work with others.
